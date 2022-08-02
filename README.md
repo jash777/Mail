@@ -8,4 +8,9 @@ You can Create a free SMPT Server on SMTP2GO.com
 Disposable Mail For anonymity
 
 
+### How to Run
+
+- Install Python3 on you are machine
+- python3 Mail.py
+
 ----------------------------------------------Educational Purpose Only---------------------------------------------------
