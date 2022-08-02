@@ -8,4 +8,4 @@ You can Create a free SMPT Server on SMTP2GO.com
 Disposable Mail For anonymity
 
 
---------------------------------------------------------Educational Purpose Only-----------------------------------------------------------
+----------------------------------------------Educational Purpose Only---------------------------------------------------
